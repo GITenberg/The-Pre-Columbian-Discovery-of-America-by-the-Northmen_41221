@@ -1,0 +1,32 @@
+_repo: The-Pre-Columbian-Discovery-of-America-by-the-Northmen_41221
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: DeCosta, B. F. (Benjamin Franklin)
+    aliases:
+    - Costa, De Benjamin Franklin
+    - De Costa, B. F. (Benjamin Franklin)
+    - Costa, B. F. De (Benjamin Franklin)
+    birthdate: 1831
+    deathdate: 1904
+    gutenberg_agent_id: '41045'
+    url: http://www.gutenberg.org/2009/agents/41045
+description: ''
+gutenberg_issued: '2012-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41221'
+  lccn: '01025320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'America -- Discovery and exploration -- Norse'
+title: "The Pre-Columbian Discovery of America by the Northmen\r\nIllustrated by Translations\
+  \ from Icelandic Sagas"
+url: http://www.gutenberg.org/ebooks/41221
